@@ -290,7 +290,7 @@ GEM
       base64
       websocket-extensions (>= 0.1.0)
     websocket-extensions (0.1.5)
-    x (0.16.0)
+    x (0.17.0)
       base64 (>= 0.2)
     zeitwerk (2.7.3)
 
@@ -322,7 +322,7 @@ DEPENDENCIES
   turbo-rails
   tzinfo-data
   web-console
-  x (~> 0.16.0)
+  x (~> 0.17.0)
 
 BUNDLED WITH
    2.7.1
