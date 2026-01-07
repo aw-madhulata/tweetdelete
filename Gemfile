@@ -51,6 +51,6 @@ group :development do
 end
 
 
-gem "x", "~> 0.16.0"
+gem "x", "~> 0.18.0"
 
 gem "devise", "~> 4.9"
